@@ -85,3 +85,12 @@ p {
     font-size: 20px;
     background-color: #4D4D4D;
 }
+
+input {
+    padding: 3px;
+}
+
+textarea {
+    padding: 3px;
+    resize: none;
+}
